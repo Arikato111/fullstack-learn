@@ -11,7 +11,7 @@
 
 ### Todo
 
-- [ ] Register
+- [x] Register
 - [ ] Login
 - [ ] Logout
 - [ ] show profile
