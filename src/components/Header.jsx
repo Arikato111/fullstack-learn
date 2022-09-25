@@ -7,7 +7,7 @@ const Header = ({ isLogin }) => {
         location.pathname = "/login"
     }
     return (
-        <nav className="flex bg-white sticky top-0 p-2 shadow-lg mb-3">
+        <nav className="flex justify-center sm:justify-start bg-white lg:bg-opacity-50 sticky top-0 p-2 shadow-lg mb-3">
             <div className="mx-1 text-lg"><Link to={"/"}>Home</Link></div>
             {isLogin? 
             <>

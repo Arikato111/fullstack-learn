@@ -15,4 +15,10 @@
 - [x] Login
 - [x] Logout
 - [x] show profile
-- [ ] upgrade front-end
+
+---
+### about database
+- database_name : firstdb
+- collections
+- - users
+- - token

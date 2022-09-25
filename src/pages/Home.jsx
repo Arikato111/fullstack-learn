@@ -14,10 +14,10 @@ export default function Home() {
         );
     }
     return (
-        <main>
-            <h1>Homepage</h1>
+        <main className="mx-1 lg:mx-80">
+            <h1 className="text-4xl">Homepage</h1>
             <hr />
-            <dir>
+            <dir className="text-lg">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                 Assumenda eius autem quis. Debitis deleniti atque, quo
                 voluptates eligendi qui perferendis rem sequi. Dolorem deserunt

@@ -28,8 +28,9 @@ const Profile = () => {
 
     return (
         <main className="mx-2 lg:mx-80">
-            <div className="text-red-600">{error}</div>
-            <h1 className="text-2xl">Profile</h1>
+            <div className="text-red-600 text-lg">{error}</div>
+            <h1 className="text-4xl">Profile</h1>
+            <hr />
             <div>_id: {user._id}</div>
             <div>name: {user.name}</div>
             <div>username: {user.username}</div>
