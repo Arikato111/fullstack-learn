@@ -12,6 +12,7 @@
 ### Todo
 
 - [x] Register
-- [ ] Login
-- [ ] Logout
-- [ ] show profile
+- [x] Login
+- [x] Logout
+- [x] show profile
+- [ ] upgrade front-end
